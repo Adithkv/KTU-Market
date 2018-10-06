@@ -1,0 +1,44 @@
+body
+{
+font-family: sans-serif;
+margin: 0px;
+}
+.nav-bar
+{
+background-color:#263238;
+width: 100%;
+padding:16px;
+color:#fff; 
+    
+}
+.nav-items
+{
+background-color:#009688;
+width:100%;
+
+}
+li .active{
+    background-color: 
+}
+.items-list{
+    list-style: none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+.items{
+    float: left;
+}
+a{
+    text-decoration: none;
+    
+}
+.item-link{
+    color:#fff;
+    padding:14px 16px;
+    display: block;
+    text-align: center;
+}
+.item-link:hover{
+    background-color:#455A64;
+}
