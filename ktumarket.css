@@ -9,6 +9,7 @@ background-color:#263238;
 width: 100%;
 padding:16px;
 color:#fff; 
+text-align: center;
     
 }
 .nav-items
@@ -17,8 +18,8 @@ background-color:#009688;
 width:100%;
 
 }
-li .active{
-    background-color: 
+.active{
+      background-color:#455A64;
 }
 .items-list{
     list-style: none;
