@@ -54,15 +54,9 @@ h1{
 }
 
 #quiz-start{
-    
     background: #3498db;
-    width:180px;
-    padding: 4px 0;
-    position:absolute;
-    left:50%;
-    top:auto;
-    transform: translateX(-50%) translateY(-50%);
-    border-radius: 3px;
+    padding: 16px 32px;
+    border-radius: 5px;
 }
 .faded{
     font-family:'Roboto';
