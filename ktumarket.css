@@ -1,7 +1,7 @@
 body
 {
 font-family: sans-serif;
-margin: 0px;
+margin: 0;
 background:#0c1514; 
 user-select:none;
 }
@@ -55,11 +55,9 @@ h1{
 }
 
 #quiz-start{
-    
     background: #3498db;
-    padding:16px 32px;
-    border-radius:5px;
-    color: white;
+    padding: 16px 32px;
+    border-radius: 5px;
 }
 
 .faded{
@@ -80,4 +78,12 @@ h1{
 }
 #quiz-start:active{
     background:#090;
+}
+
+
+a{
+    text-decoration: none;
+}
+.start{
+    color: #fff;
 }
