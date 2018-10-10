@@ -3,6 +3,7 @@ body
 font-family: sans-serif;
 margin: 0px;
 background:#0c1514; 
+user-select:none;
 }
 .nav-bar
 {
@@ -62,9 +63,7 @@ h1{
     font-family:'Roboto';
     text-align: center;
     text-transform:uppercase;
-    color: #fff;
-    user-select:none;
-        color:#777;
+    color:#777;
     
 }
 &:hover {
