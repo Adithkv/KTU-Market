@@ -5,12 +5,14 @@ margin: 0;
 background:#ffffff; 
 user-select:none;
 }
+.nav-container{
+    width:100vw;
+}
 .nav-bar
 {
 background-color:#2979FF;
-width: 100%;
-padding:16px;
 color:#fff; 
+padding:16px 0;
 text-align: center;
 font-size:32px;
     
@@ -18,8 +20,6 @@ font-size:32px;
 .nav-items
 {
 background-color:#2979FF;
-width:100%;
-
 }
 .active{
      
@@ -40,7 +40,7 @@ a{
 }
 .item-link{
     color:#fff;
-    padding:14px 16px;
+    padding:16px 16px;
     display: block;
     text-align: center;
 }
